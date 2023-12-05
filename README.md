@@ -4,14 +4,14 @@ An exercise on scraping wikipedia articles, and building a rudimentary search to
 # Instructions
 
 ## Install Requirements
-Run `make install` to install important libraries and load spacy language model
+Run `make install` on venv Terminal to install important libraries and load spacy language model
 
 ## (preloaded) Scrape Wikipedia Data
-Run `make scrape` to pull data from wikipedia and save the results as a CSV file.
+Run `make scrape` on venv Terminal to pull data from wikipedia and save the results as a CSV file.
 A sample file is already included on the repo, so this step is more relevant when adding new topics.
 
 ## Run Streamlit App
-run `make run` to begin the streamlit app demo.
+Run `make run` on venv Terminal to begin the streamlit app demo.
 
 # How it works
 
